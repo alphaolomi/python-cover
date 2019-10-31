@@ -1,1 +1,1 @@
-# Python Cover ![Codecov](https://img.shields.io/codecov/c/github/alphaolomi/python-cover?logo=codecov&style=flat-square) ![Travis Build](https://img.shields.io/travis/com/alphaolomi/python-cover?logo=travis&style=flat-square)
+# Python Cover ![Codecov](https://img.shields.io/codecov/c/github/alphaolomi/python-cover?logo=codecov&style=flat-square) ![Travis](https://img.shields.io/travis/com/alphaolomi/python-cover?logo=travis&style=flat-square)
